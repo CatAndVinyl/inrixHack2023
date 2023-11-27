@@ -1,3 +1,7 @@
+
+[![Video Title](https://img.youtube.com/vi/PSuy54a5vRc/0.jpg)](https://www.youtube.com/watch?v=PSuy54a5vRc)
+
+
 ## Inspiration
 Going to the same place as someone else to pickup something? We found that our neighbors were consistently visiting the same places as us. Whether that be safeway, costco, barnes and noble, or party city, we all visit the same places around the same times. What if there was a way to reduce times stuck in traffic or wandering a store?
 
